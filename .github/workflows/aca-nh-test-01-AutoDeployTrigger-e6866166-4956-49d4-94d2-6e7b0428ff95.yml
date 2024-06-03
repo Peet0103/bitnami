@@ -7,7 +7,7 @@ on:
     branches: 
       [ main ]
     paths:
-    - 'bitnami/mediawiki/1/debian-12/**'
+    - 'bitnami/mediawiki/**'
     - '.github/workflows/aca-nh-test-01-AutoDeployTrigger-e6866166-4956-49d4-94d2-6e7b0428ff95.yml'
 
   # Allow manual trigger 
